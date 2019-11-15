@@ -1,2 +1,2 @@
 # ComplexAuthHTTPServer
-Complex HTTP Server With Basic Authentication Feature
+Multithreaded HTTP Server With Basic Authentication Feature
