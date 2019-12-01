@@ -1,2 +1,2 @@
 # ComplexAuthHTTPServer
-Multithreaded HTTP Server With Basic Authentication Feature
+Multithreaded Python HTTP Server With Basic Authentication Feature
